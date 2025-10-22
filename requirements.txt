@@ -1,0 +1,6 @@
+pandas
+SQLAlchemy
+pyodbc
+requests
+pyyaml
+pytest
